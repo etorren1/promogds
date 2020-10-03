@@ -65,9 +65,6 @@ h2 {
 .text-block h2 {
 	font-size: 32px;
 	margin: 0;
-}
-
-.text-block h2 {
 	text-align: center;
 }
 
@@ -80,10 +77,10 @@ span {
 	font-weight: 700;
 }
 
-/*.main-bg {
+.main-bg {
 	background: #e8e8e8 url("images/bg-top.png") no-repeat top center;
 	background-size: cover;
-}*/
+}
 
 .simple-bg {
 	background:	url("images/bg-hex-bot.jpg") no-repeat bottom right, 
@@ -221,4 +218,6 @@ a.button3:hover {
 	body {font-size: 12px;}
 	h2 {font-size: 18px;}
 	.text-block h2 {font-size: 20px;}
+	.text-block {margin: 4% 4%;}
+	.block {margin: 4% 4%;}
 }
