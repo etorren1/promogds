@@ -209,6 +209,8 @@ a.button3:hover {
 }
 
 .copyright {
+	display: table-cell;
+	vertical-align: bottom;
 	text-align: right;
 	margin-right: 10px;
 }
