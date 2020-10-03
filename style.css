@@ -113,6 +113,12 @@ span {
 	margin-bottom: 150px;
 }
 
+@media screen and (max-device-width: 922px) {
+	.list {font-size : 16px;}
+	body {font-size: 12px;}
+	h2 {font-size: 18px;}
+}
+
 .list {
 	font-size: 24px;
 	text-align: left;
