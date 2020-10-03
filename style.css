@@ -217,7 +217,8 @@ a.button3:hover {
 }
 
 @media screen and (max-device-width: 922px) {
-	.list {font-size : 16px;}
+	li span {font-size : 16px;}
 	body {font-size: 12px;}
 	h2 {font-size: 18px;}
+	.text-block h2 {font-size: 20px;}
 }
