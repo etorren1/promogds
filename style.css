@@ -218,6 +218,5 @@ a.button3:hover {
 	body {font-size: 12px;}
 	h2 {font-size: 18px;}
 	.text-block h2 {font-size: 20px;}
-	.text-block {margin: 4% 4%;}
-	.block {margin: 4% 4%;}
+	.text-block, .block {margin: 4% 4% 150px;}
 }
