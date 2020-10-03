@@ -80,10 +80,10 @@ span {
 	font-weight: 700;
 }
 
-.main-bg {
+/*.main-bg {
 	background: #e8e8e8 url("images/bg-top.png") no-repeat top center;
 	background-size: cover;
-}
+}*/
 
 .simple-bg {
 	background:	url("images/bg-hex-bot.jpg") no-repeat bottom right, 
